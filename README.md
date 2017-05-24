@@ -18,4 +18,4 @@ python dataClassifier.py -k [smoothing_constant] -t [training_set_size] -x [test
 Tested to have an accuracy of 64.1% on validation set & 64.3% on test set 
 (k = 2, t = 10000, x = 1000)
 
-skeleton was taken from [source](http://www.cs.utexas.edu/~pstone/Courses/343spring12/assignments/classification/classification.html
+skeleton was taken from [source](http://www.cs.utexas.edu/~pstone/Courses/343spring12/assignments/classification/classification.html)
